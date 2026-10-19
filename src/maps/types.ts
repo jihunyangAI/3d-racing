@@ -1,0 +1,1 @@
+export interface RaceMap { id:string; name:string; location:string; description:string; theme:'coast'|'forest'; seed:number; laps:number; checkpoints:readonly number[]; controlPoints:readonly (readonly [number,number])[]; }

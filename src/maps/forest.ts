@@ -1,0 +1,2 @@
+import type { RaceMap } from './types';
+export const forest:RaceMap={"id":"forest","name":"Pine Valley Circuit","location":"Pine Valley","description":"Technical forest turns, a long back straight and a tight hairpin.","theme":"forest","seed":81,"laps":3,"checkpoints":[0.1,0.38,0.6,0.82],"controlPoints":[[-210,100],[-210,-70],[-130,-150],[20,-160],[190,-95],[210,30],[125,90],[160,200],[65,240],[-20,160],[-120,210]]};
